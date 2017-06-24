@@ -4,7 +4,9 @@ import os
 import boto
 import sys
 
-REGION='eu-west-1'
+#MUST!!!
+#Amend the variables below to match your AWS Credentials
+REGION=''
 ACCESS=''
 SECRET=''
 
